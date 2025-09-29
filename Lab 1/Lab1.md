@@ -16,3 +16,8 @@ Storage Account overview:
 
 ### Step 2
 
+csv file has been added to container:
+
+![csv file added to container](image-2.png)
+
+### Step 3
