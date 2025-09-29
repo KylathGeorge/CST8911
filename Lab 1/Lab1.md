@@ -44,3 +44,11 @@ File explorer screenshot:
 
 ### Step 5
 
+Container SAS token:
+
+![Container SAS token](image-8.png)
+
+Upload command + successful output:
+
+![upload command and successful output](image-9.png)
+
