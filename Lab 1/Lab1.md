@@ -32,6 +32,8 @@ File share created:
 
 ### Step 4
 
+**NOTE: I kept getting permissions error no matter what I did, so I solved it by giving myself the role of "Storage Blob Data Owner" in the Access Control for the container.**
+
 azcopy command with output:
 
 ![azcopy command](image-5.png)
@@ -39,4 +41,6 @@ azcopy command with output:
 File explorer screenshot:
 
 ![File explorer](image-6.png)
+
+### Step 5
 
