@@ -4,7 +4,7 @@
 
 ## Student Number: 041198835
 
-### Step 1 - screenshot
+### <ins>Step 1</ins>
 
 Policy error when choosing US East region(chose Canada central instead):
 
