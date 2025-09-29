@@ -46,9 +46,9 @@ File explorer screenshot:
 
 Container SAS token:
 
-![Container SAS token](image-8.png)
+![container SAS token](image-10.png)
 
 Upload command + successful output:
 
-![upload command and successful output](image-9.png)
+![upload plus successful output](image-11.png)
 
