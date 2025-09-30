@@ -44,11 +44,16 @@ File explorer screenshot:
 
 ### Step 5
 
-Container SAS token:
+Account SAS token generated:
 
-![container SAS token](image-10.png)
+![Account SAS token](image-14.png)
 
 Upload command + successful output:
 
-![upload plus successful output](image-11.png)
+![upload command](image-15.png)
 
+Azure portal file share with uploaded file:
+
+![azure portal file share](image-16.png)
+
+### Step 6
