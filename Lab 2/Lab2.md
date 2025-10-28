@@ -12,11 +12,13 @@ I get this policy error using East US regions, so I will be using Canada Central
 
 ### Step 1
 
+![Storage account settings](image-4.png)
+
 ### Step 2
 
 Function app settings chosen:
 
-![functionappsettings](image.png)
+![Function App settings](image-3.png)
 
 ### Step 3
 
