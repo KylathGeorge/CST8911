@@ -38,4 +38,20 @@ BlobTrigger1 created:
 
 ### Step 4
 
+Screenshot of the code of the function:
+
+![Function code](image-8.png)
+
+Screenshot of function.json:
+
+![function.json](image-9.png)
+
+Screenshot of the Test/Input file:
+
+Screenshot of the output from logstreams in Monitoring:
+
+![Logstream of output](image-10.png)
+
+Copy and paste the bottom output log and paste:
+
 ### Step 5
