@@ -32,6 +32,10 @@ Storage account from Step 1 chosen(I had to use the create new option to choose 
 
 ![storage account chosen](image-6.png)
 
+Container "cst8911lab2congtainer" created in the storage account
+
+![container in Storage account](image-11.png)
+
 BlobTrigger1 created:
 
 ![Trigger created](image-7.png)
@@ -44,9 +48,15 @@ Screenshot of the code of the function:
 
 Screenshot of function.json:
 
+AzureWebJobsStorage is the connection to the container specified in function.json.
+
 ![function.json](image-9.png)
 
 Screenshot of the Test/Input file:
+
+Screenshot of the uploaded file in the container:
+
+![container upload](image-12.png)
 
 Screenshot of the output from logstreams in Monitoring:
 
