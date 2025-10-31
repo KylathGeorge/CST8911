@@ -42,7 +42,7 @@ BlobTrigger1 created:
 
 ### Step 4
 
-**Note: I could not figure out how to use the "Test/Run" to manually test this specific trigger. I have used it in the past for HTTP triggers but othing I tried seemed to work for this function. I am aware it is a useful tool to use to test, maybe I am missing something obvious here, however I can see that the trigger works with the following screenshots. In the code, I output some log statements, showing the file name and file size which match the output in the logstream provided. In function.json, the path of the container being monitored is also provided and matches my container name in my storage account.**
+**Note: I could not figure out how to use the "Test/Run" to manually test this specific trigger. I have used it in the past for HTTP triggers but nothing I tried seemed to work for this function. I am aware it is a useful tool to use to test, maybe I am missing something obvious here, however I can see that the trigger works with the following screenshots. In the code, I output some log statements, showing the file name and file size which match the output in the logstream provided. In function.json, the path of the container being monitored is also provided and matches my container name in my storage account.**
 
 **I tried to do some research on this because the Azure Blob Storage trigger seems to be event driven and again maybe I am missing something simple but this article seems to point to non-HTTP triggers requiring a second trigger to simulate a blob being uploaded(?): <https://learn.microsoft.com/en-us/azure/azure-functions/functions-manually-run-non-http?tabs=azure-portal>.**
 
