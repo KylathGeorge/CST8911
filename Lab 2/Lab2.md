@@ -46,6 +46,10 @@ BlobTrigger1 created:
 
 **I tried to do some research on this because the Azure Blob Storage trigger seems to be event driven and again maybe I am missing something simple but this article seems to point to non-HTTP triggers requiring a second trigger to simulate a blob being uploaded(?): <https://learn.microsoft.com/en-us/azure/azure-functions/functions-manually-run-non-http?tabs=azure-portal>.**
 
+Screen shot of error received using the test function:
+
+![error](image-13.png)
+
 Screenshot of the code of the function:
 
 ![Function code](image-8.png)
