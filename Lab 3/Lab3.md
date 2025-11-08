@@ -40,3 +40,6 @@ Overview Continuation(resource visualizer to show disk type):
 
 ## Step 2
 
+Delete resources:
+
+![resources deleted](image-8.png)
