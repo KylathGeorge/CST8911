@@ -4,7 +4,7 @@
 
 ## Student Number: 041198835
 
-### Step 1
+## Step 1
 
 File is attached with submission.
 
@@ -18,10 +18,25 @@ Custom Deployment review screen:
 
 ![review screen](image-2.png)
 
-Template deployment succeeded:
-
-![alt text](image-4.png)
+Confirmation:
 
 ![Confirmation screen](image-3.png)
-### Step 2
+
+Template deployment succeeded:
+
+![template deployment](image-4.png)
+
+Overview Essentials Screenshot:
+
+![overview essentials](image-5.png)
+
+Overview Continuation:
+
+![Overview Continuation](image-6.png)
+
+Overview Continuation(resource visualizer to show disk type):
+
+![resource visualizer disk type](image-7.png)
+
+## Step 2
 
