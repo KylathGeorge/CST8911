@@ -32,3 +32,19 @@ VM Overview:
 
 ## Step 2
 
+Creating an Alert rule with Percentage CPU condition:
+
+![alert rule](image-6.png)
+
+Creating Action Group Basics:
+
+![action group](image-7.png)
+
+Creating Action Group Notifications:
+
+![Notifications](image-8.png)
+
+Creating Action Group Overview:
+
+![Overview](image-9.png)
+
