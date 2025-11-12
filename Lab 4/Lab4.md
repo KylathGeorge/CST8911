@@ -44,7 +44,28 @@ Creating Action Group Notifications:
 
 ![Notifications](image-8.png)
 
+Creating action with runbook(I did this later on after looking up what it means to have a buil-in functionality):
+
+![runbook](image-10.png)
+
 Creating Action Group Overview:
 
-![Overview](image-9.png)
+**Cannot creat Action Group without an Automation Account.**
 
+## Step 3
+
+Automation Account Basics:
+
+![automation account](image-11.png)
+
+Error creating Automation account:
+
+![alt text](image-12.png)
+
+Error with using West US:
+
+![alt text](image-13.png)
+
+Error with using Japan West:
+
+![alt text](image-14.png)
