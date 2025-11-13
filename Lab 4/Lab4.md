@@ -82,5 +82,18 @@ Screenshot of the site:
 
 ## Step 5
 
-Updated html file:
+Updated html file from "This is the CST8911 Lab 4 page" to "This is the UPDATED CST8911 Lab 4 page":
 
+![alt text](image-28.png)
+
+## Step 6
+
+Screenshot of the updated site:
+
+![alt text](image-29.png)
+
+## Step 7
+
+Resources deleted:
+
+![alt text](image-30.png)
