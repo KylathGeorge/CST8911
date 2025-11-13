@@ -36,6 +36,8 @@ Error with Southeast Asia:
 
 ## Step 1
 
+### Github Repository Link: <https://github.com/KylathGeorge/CST8911Lab4/tree/main>
+
 Screenshot of html content in repo:
 
 ![html content](image-19.png)
@@ -43,8 +45,6 @@ Screenshot of html content in repo:
 Screenshot of the repository:
 
 ![alt text](image-20.png)
-
-Github repo link: <https://github.com/KylathGeorge/CST8911Lab4/tree/main>
 
 ## Step 2
 
