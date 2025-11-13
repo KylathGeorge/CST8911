@@ -33,3 +33,16 @@ Error with North Europe:
 Error with Southeast Asia:
 
 ![alt text](image-18.png)
+
+## Step 1
+
+Screenshot of html content in repo:
+
+![html content](image-19.png)
+
+Screenshot of the repository:
+
+![alt text](image-20.png)
+
+Github repo link: <https://github.com/KylathGeorge/CST8911Lab4/tree/main>
+
