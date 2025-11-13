@@ -46,3 +46,41 @@ Screenshot of the repository:
 
 Github repo link: <https://github.com/KylathGeorge/CST8911Lab4/tree/main>
 
+## Step 2
+
+Creation of static web app:
+
+![part 1](image-21.png)
+
+repo details:
+
+![alt text](image-22.png)
+
+Overview:
+
+![alt text](image-23.png)
+
+Resource Overview:
+
+![alt text](image-27.png)
+
+## Step 3
+
+Github workflow file added:
+
+![alt text](image-24.png)
+
+Content of .yml file:
+
+![alt text](image-25.png)
+
+## Step 4
+
+Screenshot of the site:
+
+![alt text](image-26.png)
+
+## Step 5
+
+Updated html file:
+
