@@ -50,5 +50,10 @@ Microsoft Entra Log in(This was made as a new connection which is why there is a
 
 ## Step 3
 
+Delete Resources:
+
+![alt text](image-10.png)
+
+![alt text](image-11.png)
 
 
